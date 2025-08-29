@@ -1,0 +1,14 @@
+_pycache/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+*.pt
+*.pth
+*.ckpt
+*.png
+*.jpg
+*.jpeg
+!README_images/

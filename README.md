@@ -4,11 +4,9 @@ Bu proje; uydu görüntülerini periyodik olarak alıp veritabanına kaydeder, d
 
 🧱 Kaçak yapı tespiti
 
-🔥 Yangın/yanıklık alan tespiti (RGB’de basit göstergeler; kurumsal kullanımda uygun spektral/termal kaynaklarla güçlendirilmeli)
+🔥 Yangın/yanıklık alan tespiti (RGB’de basit göstergeler; kurumsal kullanımda uygun spektral/termal kaynaklarla güçlendirilecek)
 
-🌪️ Deprem/sel vb. afet sonrası hasar tespiti
-
-gibi senaryolarda değişim alanlarını ortaya çıkarır.
+🌪️ Deprem/sel vb. afet sonrası hasar tespiti gibi senaryolarda değişim alanlarını ortaya çıkarır.
 
 Özellikler
 
